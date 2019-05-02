@@ -1,0 +1,1 @@
+{"name":"shadowsocks-zeit","public":true,"type":"docker","features":{"cloud":"v2"},"env":{"KEY":"@ss-key","METHOD":"@ss-method"}}
