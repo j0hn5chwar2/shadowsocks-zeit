@@ -1,1 +1,1 @@
-{"version": 2,"name":"shadowsocks-zeit","public":true,"features":{"cloud":"v2"},"env":{"KEY":"wnxd","METHOD":"aes-256-cfb"}}
+{"version": 2,"name":"shadowsocks-zeit","public":true,"env":{"KEY":"wnxd","METHOD":"aes-256-cfb"}}
